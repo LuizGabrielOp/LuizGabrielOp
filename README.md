@@ -1,3 +1,3 @@
-<h1>WElcome to my page</h1>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizgabrielop&theme=merko)](https://github.com/luizgabrielop)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizgabrielop&theme=merko)](https://github.com/luizgabrielop)
+<h1>Oi! Luiz aqui</h1>
+[![Meus Status Github](https://github-readme-stats.vercel.app/api?username=luizgabrielop&theme=merko)
+[![Minha top línguas](https://github-readme-stats.vercel.app/api/top-langs/?username=luizgabrielop&theme=merko)
