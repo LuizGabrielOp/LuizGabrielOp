@@ -19,7 +19,7 @@
   <p>I am a Brazilian <img src="https://static.webshopapp.com/shops/094414/files/055912872/brazil-flag-emoji-free-download.jpg" width="20px" alt="brazilian flag"/> computer science student</p>
   <ul>
     <li>currently studying computer science in high school</li>
-    <li>Passionate about Java and Front-end</li>
+    <li>Passionate Web-Develop</li>
     <li> I am currently working on my senior project, a music application called Celestium</li>
   </ul>
 </div>
